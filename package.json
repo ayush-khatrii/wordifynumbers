@@ -1,0 +1,20 @@
+{
+  "name": "cls",
+  "version": "1.0.0",
+  "description": "WordifyNumbers: A JavaScript package to seamlessly convert numerical values into their corresponding verbal representations",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayush-khatrii/wordifynumbers.git"
+  },
+  "author": "Ayush Khatri",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ayush-khatrii/wordifynumbers/issues"
+  },
+  "homepage": "https://github.com/ayush-khatrii/wordifynumbers#readme"
+}
