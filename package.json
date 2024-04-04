@@ -1,6 +1,6 @@
 {
   "name": "wordifynumbers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "wordifynumbers: A JavaScript package to seamlessly convert numerical values into their corresponding verbal representations",
   "main": "index.js",
   "type": "module",

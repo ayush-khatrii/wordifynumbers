@@ -6,7 +6,7 @@ Number Wordify is a JavaScript package that converts numerical values into their
 
 - Converts numerical values into words.
 - Handles numbers up to crores for Indian numbering system.
-- Easy-to-use API for seamless integration into your projects.
+- Easy-to-use and seamless integration into your projects.
 
 ## Installation
 
