@@ -1,4 +1,4 @@
-# WordifyNumbers
+# wordifynumbers
 
 Number Wordify is a JavaScript package that converts numerical values into their corresponding verbal representations. It provides a simple and convenient way to transform numbers into words, making it easier to display numeric data in a more human-readable format.
 
@@ -25,7 +25,7 @@ Here's how you can use Number Wordify in your JavaScript code:
 const  wordifynumbers = require("wordifynumbers");
 
 const number = 12567;
-const words = numberWordify.convert(number);
+const words = wordifynumbers(number);
 
 console.log(words); // Output: "twelve thousand five hundred sixty-seven"
 
@@ -38,7 +38,7 @@ console.log(words); // Output: "twelve thousand five hundred sixty-seven"
 import { wordifynumbers } from "wordifynumbers"
 
 const number = 12567;
-const words = numberWordify.convert(number);
+const words = wordifynumbers(number);
 
 console.log(words); // Output: "twelve thousand five hundred sixty-seven"
 
