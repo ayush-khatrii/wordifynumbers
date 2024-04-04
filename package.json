@@ -1,5 +1,5 @@
 {
-  "name": "cls",
+  "name": "WordifyNumbers",
   "version": "1.0.0",
   "description": "WordifyNumbers: A JavaScript package to seamlessly convert numerical values into their corresponding verbal representations",
   "main": "index.js",
