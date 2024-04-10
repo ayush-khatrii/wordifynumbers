@@ -1,6 +1,6 @@
 # wordifynumbers
 
-Number Wordify is a JavaScript package that converts numerical values into their corresponding verbal representations. It provides a simple and convenient way to transform numbers into words, making it easier to display numeric data in a more human-readable format.
+Wordifynumbers is a JavaScript package that converts numerical values into their corresponding verbal representations. It provides a simple and convenient way to transform numbers into words, making it easier to display numeric data in a more human-readable format.
 
 ## Features
 
